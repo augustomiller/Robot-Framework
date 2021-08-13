@@ -27,6 +27,6 @@ pip install robotframework
 pip install robotframework-seleniumlibrary
 ~~~
 * Chrome Web Driver: https://sites.google.com/a/chromium.org/chromedriver/home
-* Copiar o chtomewebdriver para o PATH do sistema.
+* Copiar o chromewebdriver para o PATH do sistema.
 
 ![Thats Robot](https://user-images.githubusercontent.com/990877/129357114-76c16f53-b485-4c59-b33a-5975a32e083b.png)
